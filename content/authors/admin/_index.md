@@ -15,7 +15,7 @@ superuser: true
 
 # Role/position
 
-role: Academic Supervisor
+role: Academic Supervisor TEST_LOCAL2
 
 # Organizations/Affiliations
 
@@ -26,7 +26,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, _etc._)  
+bio:  KJHHKJ My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, _etc._)  
 
 interests:
 
@@ -106,5 +106,4 @@ user_groups:
 ---
 
 I am an academic supervisor and I also work on research projects on development and international economics. 
-
 
