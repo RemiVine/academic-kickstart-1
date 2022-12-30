@@ -26,7 +26,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: ghjhgkkhkj My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, _etc._)  
+bio:  KJHHKJ My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, _etc._)  
 
 interests:
 
