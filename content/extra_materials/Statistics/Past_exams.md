@@ -19,7 +19,7 @@ Here are some exams and materials that can be helpful for preparation and unders
 Content | Level | Download the PDF |
 :--------------:|:-----:|:-------------:
 Waiver test     | Stats 101 |   'img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf'
-Midterm test    | Stats 101 |   
+Midterm test    | Stats 101 |  [Link attempt] .img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf (test)
 Final test      | Stats 101 |   
 Final test correction element | Stats 101 |   
 
