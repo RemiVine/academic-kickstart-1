@@ -20,7 +20,7 @@ Content | Level | Download the PDF |
 :--------------:|:-----:|:-------------:
 Waiver test     | Stats 101 |   'img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf'
 Midterm test    | Stats 101 |  [Link attempt] .img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf (test)
-Final test      | Stats 101 |   
+Final test      | Stats 101 |   [link attempt 2](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Exam_Stat_I_a_correction.pdf)
 Final test correction element | Stats 101 |   
 
 
