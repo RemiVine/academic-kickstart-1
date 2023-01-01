@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: TEST Statistic page
-summary: blablabla
+linktitle: Statistic page
+summary: Some materials about statistics for students in social sciences
 weight: 1
 
 # Page metadata.
@@ -17,11 +17,17 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   Material:
-    name: Présentation
+    name: Presentation
     weight: 1
 ---
 
-BLALBABLA
+#### Here I share some materials about statistics for students in social sciences, most of the material is intuitive and aims to give intuitions behind concepts.
+
+
+##### A waiver test for statistic I for International Relations and Political Science
+
+
+##### Some exam materials to prepare 
 
 
 
