@@ -46,7 +46,7 @@ image:
 
 Remittances can be a tremendous tool for development and I work with Dr. Nestor Morgandi and Dr. Chirstian Kingombé (Managing partner of [4IP Group](http://4ipgroup.org/)) to promote remittances as a tool for development that lies between the macro approach performed by international organizations and the micro level development, where remittances are mostly used so far. Pursuing this, we worked with [Abrod](https://a-brod.com/) and participated to the 2022 Geneva Building Bridges conference ([conference](https://www.youtube.com/watch?v=wBXGulGi5WI)). 
 
-I also work in research on the topic, trying to highlight (i) the issue of the oligopolies of Remittances Service Providers, as prices can increase - relatively - after a disaster, (ii) the complexity of the use of remittances, at the intersection of emergency spending, spending to face poverty, spending to invest, and spending to conspiciously climb on the social ladder. 
+I also work in research on the topic, trying to highlight (i) the issue of the oligopolies of Remittances Service Providers, as prices can increase - relatively - after a disaster (see [here](https://remivine.com/publication/3-remittances-costs-catastrophes/)), (ii) the complexity of the use of remittances, at the intersection of emergency spending, spending to face poverty, spending to invest, and spending to conspiciously climb on the social ladder (see [here](https://remivine.com/publication/2-tajikistan-remittances/)). 
 
 
 
