@@ -14,5 +14,12 @@ header:
 
 
 
+#### A waiver test for statistic I for International Relations and Political Science
+
+
+#### Some exam materials to prepare 
+
+
+
 
 
