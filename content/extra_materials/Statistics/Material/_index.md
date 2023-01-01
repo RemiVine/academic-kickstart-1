@@ -1,6 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Statistics for social sciences
+title: Statistics
 summary: Based on some classes taughts
 weight: 1
 
