@@ -23,12 +23,12 @@ weight: 1
 #    name: The template TEST
 #    weight: 1
 
-links:
-url_pdf: 'img/Statistics_doc/Waiver_09_2022_final-1-11.pdf'
+# links:
+# url_pdf: 'img/Statistics_doc/Waiver_09_2022_final-1-11.pdf'
 
-url_pdf: 'img/Statistics_doc/Statistics_IRPS_exam_2022.pdf'
+# url_pdf: 'img/Statistics_doc/Statistics_IRPS_exam_2022.pdf'
 
-url_pdf: 'img/Statistics_doc/Exam_Stat_I_a_correction.pdf'
+# url_pdf: 'img/Statistics_doc/Exam_Stat_I_a_correction.pdf'
 
 ---
 
