@@ -16,5 +16,14 @@ weight: 10
 
 Here are some exams and materials that can be helpful for preparation and understanding. 
 
+Content | Level | Download the PDF |
+:--------------:|:-----:|:-------------:
+Waiver test     | Stats 101 |   
+Midterm test    | Stats 101 |   
+Final test      | Stats 101 |   
+Final test correction element | Stats 101 |   
+
+
+
 
 
