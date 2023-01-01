@@ -9,7 +9,7 @@ header:
   image: ""
 ---
 
- Here I share some materials about statistics for students in social sciences, most of the material is intuitive and aims to give intuitions behind concepts.
+# Here I share some materials about statistics for students in social sciences, most of the material is intuitive and aims to give intuitions behind concepts.
 
 
 
