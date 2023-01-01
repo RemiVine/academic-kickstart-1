@@ -18,7 +18,9 @@ weight: 1
 
 Content | Level | Download the PDF |
 :--------------:|:-----:|:-------------:
-
+Number of subsets in a set | Stat 101 | [Subsets in a Set](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/number_of_subsets_in_universe.pdf)
+Sample standard deviation | Stat 101 | [Sample Standard Deviation](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/standard_error_sampling_distribution.pdf)
+Standard error (sampling distribution) | Stat 101| [SE and Sampling Distribution](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/standard_error_sampling_distribution.pdf)
 
 
 
