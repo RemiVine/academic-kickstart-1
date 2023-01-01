@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Some ideas on remittances
- title: Remittances - what for?
+title: Remittances - what for?
 toc: false
 summary: Remittances as a tool for meso-level investment
 weight: 1
