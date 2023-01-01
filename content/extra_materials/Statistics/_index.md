@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   Material:
-    name: Presentation
+    name: Different types of material
     weight: 1
 ---
 
