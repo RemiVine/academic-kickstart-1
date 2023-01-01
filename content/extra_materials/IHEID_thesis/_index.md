@@ -48,3 +48,17 @@ A LaTeX template for IHEID-specific thesis is available here: [template](https:/
 
 The template is meant for thesis that are paper-based, with bibliographies for each paper and titles indexed uniquely over the whole thesis. Details are to be found on the Github repository.
 
+Just as an illustration, here is the first page: 
+
+![First Page](./IHEID_template_first_page.png)
+
+The template of the IHEID might be modified over time, and I do not keep track of changes, unless these are mentioned to me, so please feel free to reach out to me regarding these changes in order to let me incorporate them. 
+
+
+
+
+
+
+
+
+
