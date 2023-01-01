@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Statistic page
 summary: Some materials about statistics for students in social sciences
-weight: 1
+weight: 5
 
 # Page metadata.
 title: Material
