@@ -27,7 +27,8 @@ weight: 1
 
 Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1] 
 
-![List des bureaux de vote](./plan-bureaux-de-vote-ferney-voltaire-2021 POUR VALIDATION-1.png)
+![Bureaux_de_vote](./plan-bureaux-de-vote-ferney-voltaire-2021_POUR_VALIDATION-1.png)
+
 
 
 ## Quatre bureaux de vote et une baisse de la proportion d'inscrits
