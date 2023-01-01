@@ -16,7 +16,8 @@ weight: 1
 
 
 
-BLABLABLABLA
+Content | Level | Download the PDF |
+:--------------:|:-----:|:-------------:
 
 
 
