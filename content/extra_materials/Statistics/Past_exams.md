@@ -16,12 +16,12 @@ weight: 10
 
 Here are some exams and materials that can be helpful for preparation and understanding. 
 
-Content | Level | Download the PDF |
+Content | Level | Download the PDF | Other material
 :--------------:|:-----:|:-------------:
-Waiver test     | Stats 101 |  [Waiver](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Waiver_09_2022_final-1-11.pdf)
-Midterm test    | Stats 101 |  [Midterm](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Stat_I_midterm_VF.pdf)
-Final test      | Stats 101 |  [Final](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Statistics_IRPS_exam_2022.pdf)
-Final test correction element | Stats 101 |   [Correction Final](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Exam_Stat_I_a_correction.pdf)
+Waiver test     | Stats 101 |  [Waiver](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Waiver_09_2022_final-1-11.pdf) |
+Midterm test    | Stats 101 |  [Midterm](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Stat_I_midterm_VF.pdf) | [AJR_data_1](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Past_exams/AJR_2001_base.dta), [AJR_data_2](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Past_exams/AJR_health_data.dta), [AJR_paper](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Past_exams/AJR_2001_paper.pdf)
+Final test      | Stats 101 |  [Final](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Statistics_IRPS_exam_2022.pdf) |
+Final test correction element | Stats 101 |   [Correction Final](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Exam_Stat_I_a_correction.pdf) | [USD_city](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/cities.xlsx),  [USD_events](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/events.xlsx),  [WUP_city](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/WUP_AnnualPopUrbanAggl.dta),  [WUP_city_shares](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/WUP_PercTotPopUrbanAggl.dta),  [WDI](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/WDI_2019_selection.dta),  [USD_codebook](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Codebook (preliminary version).pdf),  [](), 
 
 
 
