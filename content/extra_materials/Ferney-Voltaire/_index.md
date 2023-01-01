@@ -25,7 +25,7 @@ weight: 1
 
 # Élections présidentielles à Ferney-Voltaire
 
-Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1] 
+Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1] Le bureau nommé Sud est le bureau 3, le bureau Nord est le bureau 4, le bureau Est est bureau 3, et le bureau Ouest est le bureau 1. 
 
 ![Bureaux_de_vote](./plan-bureaux-de-vote-ferney-voltaire-2021_POUR_VALIDATION-1.png)
 
