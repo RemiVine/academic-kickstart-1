@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: IHEID-specific Thesis Template on LaTeX
-title: The Template
+title: A Template
 toc: false
 summary: Template for paper-based thesis with independant bibliographies and appendices but with common numbering
 weight: 1
