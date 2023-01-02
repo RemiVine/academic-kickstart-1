@@ -29,8 +29,8 @@ menu:
 
 ##### Some exam materials to prepare 
 
-
+<div style="text-align: center;">
 
 ![CLT Illustration](./CLT_illustration.png)
 
-
+</div>
