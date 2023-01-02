@@ -14,6 +14,7 @@ menu:
 weight: 1
 ---
 
+These short classnotes aim to bring some further understanding regarding key concepts in statistics that are not fully covered in class.
 
 
 Content | Level | Download the PDF |
