@@ -48,7 +48,7 @@ Remittances can be a tremendous tool for development and I work with Dr. Nestor 
 
 TEST1
 
-[![Building Bridges 2022](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](https://www.youtube.com/watch?v=wBXGulGi5WI "Building Bridges 2022")
+[![Building Bridges 2022](./BB2002_picture_post_conference.jpg)](https://www.youtube.com/watch?v=wBXGulGi5WI "Building Bridges 2022")
 
 TEST2
 
