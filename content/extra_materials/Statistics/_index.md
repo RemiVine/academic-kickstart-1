@@ -31,3 +31,6 @@ menu:
 
 
 
+![CLT Illustration](./CLT_illustration.png)
+
+
