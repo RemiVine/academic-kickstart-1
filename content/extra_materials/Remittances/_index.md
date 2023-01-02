@@ -46,6 +46,11 @@ image:
 
 Remittances can be a tremendous tool for development and I work with Dr. Nestor Morgandi and Dr. Chirstian Kingombé (Managing partner of [4IP Group](http://4ipgroup.org/)) to promote remittances as a tool for development that lies between the macro approach performed by international organizations and the micro level development, where remittances are mostly used so far. Pursuing this, we worked with [Abrod](https://a-brod.com/) and participated to the 2022 Geneva Building Bridges conference ([conference](https://www.youtube.com/watch?v=wBXGulGi5WI)). 
 
+TEST1
+
+[![Building Bridges 2022](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](https://www.youtube.com/watch?v=wBXGulGi5WI "Building Bridges 2022")
+
+TEST2
 
 <!--
 [![Building Bridges 2022](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](https://www.youtube.com/watch?v=wBXGulGi5WI "Building Bridges 2022")
