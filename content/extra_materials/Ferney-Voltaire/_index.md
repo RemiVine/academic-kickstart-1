@@ -33,7 +33,10 @@ Remarque préliminaire : les données électorales, sauf mention du contraire, s
 
 ## Quatre bureaux de vote et une baisse de la proportion d'inscrits
 
-<center>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
+  
 | Bureau de vote | 2017   | 2022   |
 | -------------- | ------ | ------ |
 | Nord           | 757    | 730    |
@@ -41,7 +44,8 @@ Remarque préliminaire : les données électorales, sauf mention du contraire, s
 | Ouest          | 913    | 1092   |
 | Est            | 1148   | 1222   |
 | *Total*        | *3629* | *3988* |
-</center>
+  
+</div>
 
 
 
