@@ -30,7 +30,8 @@ menu:
 ##### Some exam materials to prepare 
 
 
-
+<center>
 ![CLT Illustration](./CLT_illustration.png)
+</center>
 
 
