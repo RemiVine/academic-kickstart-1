@@ -35,7 +35,7 @@ Remarque préliminaire : les données électorales, sauf mention du contraire, s
 
 <div style="margin-left: auto;
             margin-right: auto;
-            width: 30%">
+            width: 40%">
   
 | Bureau de vote | 2017   | 2022   |
 | -------------- | ------ | ------ |
@@ -83,7 +83,7 @@ Seul le quatrième bureau de vote, couvrant l'est de la ville, affiche une dynam
 
 <div style="margin-left: auto;
             margin-right: auto;
-            width: 30%">
+            width: 70%">
   
 | Élections présidentielles, abstention (%) | 2017 | 2017 | 2022 | 2022 |
 | ----------------------------------------- | ---- | ---- | ---- | ---- |
