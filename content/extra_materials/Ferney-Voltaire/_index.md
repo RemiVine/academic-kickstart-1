@@ -81,7 +81,10 @@ Le deuxième bureau de vote, couvrant la zone sud de la ville a systématiquemen
 
 Seul le quatrième bureau de vote, couvrant l'est de la ville, affiche une dynamique où les inscrits sont allés voter en plus grand nombre au deuxième tour par rapport au premier tour de l'élection (en 2022 car la dynamique était inverse en 2017).
 
-<center>
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
+  
 | Élections présidentielles, abstention (%) | 2017 | 2017 | 2022 | 2022 |
 | ----------------------------------------- | ---- | ---- | ---- | ---- |
 | *Tours*                                   | *T1* | *T2* | *T1* | *T2* |
@@ -89,7 +92,8 @@ Seul le quatrième bureau de vote, couvrant l'est de la ville, affiche une dynam
 | Bureau de vote : Sud                      | 28.5 | 26.1 | 29.2 | 34.1 |
 | Bureau de vote : Ouest                    | 18.8 | 18.1 | 20.4 | 25.5 |
 | Bureau de vote : Est                      | 20.8 | 22.0 | 23.7 | 22.6 |
-</center>
+
+  </div>
 
 
 ## Les votes du premier tour
