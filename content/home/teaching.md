@@ -13,13 +13,20 @@ subtitle = ""
 weight = 90
 +++
 
+
 ## Lecturing 
 
 - **Statistics for International Relations Research I**
   - _Master level, 2022_
 
+## Supervision
 
-## Teaching assistant
+- **Applied Research Projects**
+  - _Faculty Lead of the Sustainable Trade and Finance track (2023)_
+  - _Academic Supervisor in the Conflict, Peace, and Security track (2022)_
+
+
+## Teaching assistant (interdisciplinary master students)
 
 - **Capstone Project - Trade and Finance track**
   - _Ugo Panizza - Spring 2019 to Autumn 2019_
