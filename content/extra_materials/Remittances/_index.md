@@ -60,10 +60,11 @@ The video link is taken:
 https://stackoverflow.com/questions/69326962/insert-embeded-youtube-video-in-markdown-vs-code
 -->
 
+
 <center>
  <iframe width="560" 
          height="315" 
-         src="[YOUTUBE_LINK](https://www.youtube.com/embed/wBXGulGi5WI)" 
+         src="https://www.youtube.com/embed/wBXGulGi5WI" 
          title="YouTube video player" 
          frameborder="0" 
          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
