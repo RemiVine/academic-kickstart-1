@@ -15,8 +15,8 @@ weight = 90
 
 ## Lecturing 
 
-* Statistics 1 for International Relations and Political Science (master), 2022
-
+- **Statistics for International Relations Research I**
+  - _Master level, 2022_
 
 
 ## Teaching assistant
