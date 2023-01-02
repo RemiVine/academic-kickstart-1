@@ -72,6 +72,12 @@ https://stackoverflow.com/questions/69326962/insert-embeded-youtube-video-in-mar
 </center>
 
 
+TEST3 
+
+[![](https://markdown-videos.deta.dev/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+
+
+
 I also work in research on the topic, trying to highlight (i) the issue of the oligopolies of Remittances Service Providers, as prices can increase - relatively - after a disaster (see [here](https://remivine.com/publication/3-remittances-costs-catastrophes/)), (ii) the complexity of the use of remittances, at the intersection of emergency spending, spending to face poverty, spending to invest, and spending to conspiciously climb on the social ladder (see [here](https://remivine.com/publication/2-tajikistan-remittances/)). 
 
 
