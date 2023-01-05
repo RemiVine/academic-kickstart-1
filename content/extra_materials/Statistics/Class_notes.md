@@ -25,3 +25,4 @@ Standard error (sampling distribution) | Stat 101| [SE and Sampling Distribution
 
 
 
+
