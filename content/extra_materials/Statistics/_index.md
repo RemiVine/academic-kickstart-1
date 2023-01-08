@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Statistic page
+linktitle: Statistics
 summary: Some materials about statistics for students in social sciences
 weight: 5
 
