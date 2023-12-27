@@ -14,7 +14,7 @@ abstract: >
 
 # Place the image section here, below the abstract
 image:
-  caption: 'Image credit: ![SDG Financing Gap Illustration](SDG_Financing_gap.png)'
+  caption: 'Image credit: ![SDG Financing Gap Illustration](./SDG_Financing_gap.png)'
   focal_point: ""
   preview_only: false
 
