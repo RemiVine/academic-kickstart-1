@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Allocation
+linktitle: Allocation algorithm grouping students
 title: Allocation algorithm
 toc: false
 summary: An allocation algorithm to assign students to groups based on their preferences
