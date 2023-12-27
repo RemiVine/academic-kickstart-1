@@ -32,7 +32,7 @@ weight = 90
 ## Supervision
 
 - **Applied Research Projects**
-  - _Faculty Lead of the Sustainable Trade and Finance track (2023)_
+  - _Faculty Lead of the Sustainable Trade and Finance track (2023, 2024)_
   - _Academic Supervisor in the Conflict, Peace, and Security track (2022)_
 
 ## Teaching assistant (interdisciplinary master students)
