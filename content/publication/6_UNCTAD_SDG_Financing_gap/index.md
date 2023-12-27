@@ -32,3 +32,4 @@ projects: []
 slides: example
 ---
 
+![SDG Financing Gap Illustration](./SDG_Financing_gap.png)
