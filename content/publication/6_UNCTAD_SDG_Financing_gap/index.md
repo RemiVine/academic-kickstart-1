@@ -47,7 +47,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: ![SDG Financing Gap Illustration](./SDG_Financing_gap.png)'
+  caption: 'Image credit: ![SDG Financing Gap Illustration](SDG_Financing_gap.png)'
   focal_point: ""
   preview_only: false
 
