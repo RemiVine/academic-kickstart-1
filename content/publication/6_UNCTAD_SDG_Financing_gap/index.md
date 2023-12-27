@@ -1,5 +1,5 @@
 ---
-title: "Why trillions more are needed to bridge the SDG financing gap TESTTEST"
+title: "Why trillions more are needed to bridge the SDG financing gap"
 authors: 
   - admin
   - Reuben Wambi
