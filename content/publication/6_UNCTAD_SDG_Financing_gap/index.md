@@ -24,17 +24,20 @@ tags:
 - Source Themes
 featured: false
 
-links:
- # - name: Slides
-    url: '#'
-    url_pdf: '#' 
-    url_project: '#'
-    url_slides: '#'
-    url_source: '#'
-    url_video: '#'
- # - icon: far fa-file-pdf
-    icon_pack: fa
-    url: 
+links: 
+# - name: Slides
+#  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
+
+# url_pdf: img/Remittances__costs__corridors_last_version.pdf
+
+# url_poster: '#'
+# url_project: ''
+# url_slides: '#'
+# url_source: '#'
+# url_video: '#'
+# - icon: far fa-file-pdf
+#  icon_pack: fa
+#  url: img/10-03-2020Remittances__costs__corridors.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -48,13 +51,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects: []
+ projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+ slides: example
 ---
 
