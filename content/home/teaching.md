@@ -16,8 +16,15 @@ weight = 90
 
 ## Lecturing 
 
-- **Statistics for International Relations Research I**
-  - _Master level, 2022_
+- **Statistics for International Relations Research I (IHEID)**
+  - _Master level, 2022 & 2023 (around 15 students)_
+  - _Teaching the use of R for basic statistical analyses_
+- **Statistical Literacy (Interdisciplinary program) (IHEID)**
+  - _Master level, 2023 (around 170 students)_ 
+  - _Teaching the basic use of Stata_
+- **Statistics (EHL)**
+  - _Bachelor level, 2023 (60 to 160 students, depending on semesters)_ 
+  - _Teaching the basic use of excel_ 
 
 ## Supervision
 
