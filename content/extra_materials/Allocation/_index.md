@@ -62,6 +62,7 @@ preferences = {
 
 allocate_students(preferences)
 
+```
 
 
 ```python
@@ -80,5 +81,5 @@ plt.savefig(completeName)
 # Show
 plt.show()
 
-
+```
 
