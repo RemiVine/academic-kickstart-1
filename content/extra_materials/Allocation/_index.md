@@ -43,10 +43,10 @@ image:
 
 ---
 
+# Your Markdown content here...
 
 The algorithm with details and the example with the data used can be found: [here](https://github.com/RemiVine/Allocation_algorithm_ARP_GGI/blob/Allocation_algorithm/The_Algorithm.ipynb)
 
-# Your Markdown content here...
 
 ```python
 # Example Python code
