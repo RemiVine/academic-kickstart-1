@@ -21,10 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract:  
-In 2014, on the eve of the adoption of the SDGs, UNCTAD’s World Investment Report put the annual investment gap faced by developing countries to achieve the goals at $2.5 trillion.
-A new midpoint review sets the bar much higher, at $4 - $4.3 trillion, according to the latest UNCTAD SDG Investment Trends Monitor.
-Taking place ahead of COP28, the World Investment Forum 2023 offers a platform for policymakers at the highest levels to take decisive actions to accelerate SDG financing.
+abstract: In 2014, on the eve of the adoption of the SDGs, UNCTAD’s World Investment Report put the annual investment gap faced by developing countries to achieve the goals at $2.5 trillion. A new midpoint review sets the bar much higher, at $4 - $4.3 trillion, according to the latest UNCTAD SDG Investment Trends Monitor. Taking place ahead of COP28, the World Investment Forum 2023 offers a platform for policymakers at the highest levels to take decisive actions to accelerate SDG financing.
 
 # Summary. An optional shortened abstract.
 summary: 
