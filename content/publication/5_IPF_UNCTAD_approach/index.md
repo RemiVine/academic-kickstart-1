@@ -64,3 +64,4 @@ projects: []
 slides: example
 ---
 
+![IPF Illustration](./IPF_figure_5.png)
