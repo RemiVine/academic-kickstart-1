@@ -28,6 +28,9 @@ weight = 90
 - **Microeconomics (HEC Lausanne)**
   - _Bachelor level, 2023 (about 900 students)_
   - _Teaching part of the Microeconomics 1.0.1._
+- **Other (IHEID)**
+  - Basics of econometrics and microeconomics
+  - Sampling methods
 
 ## Supervision
 
