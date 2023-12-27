@@ -84,6 +84,7 @@ TEST3
 I also work in research on the topic, trying to highlight (i) the issue of the oligopolies of Remittances Service Providers, as prices can increase - relatively - after a disaster (see [here](https://remivine.com/publication/3-remittances-costs-catastrophes/)), (ii) the complexity of the use of remittances, at the intersection of emergency spending, spending to face poverty, spending to invest, and spending to conspiciously climb on the social ladder (see [here](https://remivine.com/publication/2-tajikistan-remittances/)). 
 
 
+![Building Bridge 2022](./BB2002_picture_post_conference.jpg)
 
 
 
