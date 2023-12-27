@@ -44,9 +44,8 @@ image:
 ---
 
 
+Algorithm for the Applied Research Project at the Graduate Institute of Geneva
 
 
 
-
-Remittances can be a tremendous tool for development
 
