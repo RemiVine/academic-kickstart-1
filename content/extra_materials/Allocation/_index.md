@@ -44,7 +44,7 @@ image:
 ---
 
 
-[Link to Code Repository]([https://github.com/yourusername/repositoryname](https://github.com/RemiVine/Allocation_algorithm_ARP_GGI/blob/Allocation_algorithm/The_Algorithm.ipynb)https://github.com/RemiVine/Allocation_algorithm_ARP_GGI/blob/Allocation_algorithm/The_Algorithm.ipynb)
+<iframe src="https://github.com/RemiVine/Allocation_algorithm_ARP_GGI/blob/Allocation_algorithm/The_Algorithm.ipynb)https://github.com/RemiVine/Allocation_algorithm_ARP_GGI/blob/Allocation_algorithm/The_Algorithm.ipynb)https://github.com/RemiVine/Allocation_algorithm_ARP_GGI/blob/Allocation_algorithm/The_Algorithm.ipynb)https://github.com/RemiVine/Allocation_algorithm_ARP_GGI/blob/Allocation_algorithm/The_Algorithm.ipynb"></iframe>
 
 
 
