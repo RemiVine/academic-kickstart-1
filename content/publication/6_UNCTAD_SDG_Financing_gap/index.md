@@ -38,6 +38,7 @@ links:
 # - icon: far fa-file-pdf
 #  icon_pack: fa
 #  url: img/10-03-2020Remittances__costs__corridors.pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
