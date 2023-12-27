@@ -46,6 +46,39 @@ image:
 
 The algorithm with details and the example with the data used can be found: [here](https://github.com/RemiVine/Allocation_algorithm_ARP_GGI/blob/Allocation_algorithm/The_Algorithm.ipynb)
 
+# Your Markdown content here...
+
+```python
+# Example Python code
+def allocate_students(preferences):
+    # Your allocation algorithm implementation
+    pass
+
+preferences = {
+    'Alice': ['Group 1', 'Group 3', 'Group 5'],
+    'Bob': ['Group 2', 'Group 4'],
+    # ...other students and their preferences...
+}
+
+allocate_students(preferences)
+
+
+
+```python
+n = 10  # number of trials
+x = list(range(n+1))  # list of values for x
+y = [math.comb(n, i) for i in x]  # list of values for binomial coefficient
+# plot
+plt.plot(x, y, color='red', linewidth=1.5)
+plt.xlabel('The size of the sample, n')
+plt.ylabel('Number of possible different samples (Binomial Coefficient)')
+plt.title('Number of possible different samples for N=10')
+# save the plot as a PNG file
+name_of_file = 'Number_combination_samples_for_sampling_distribution_N_10'
+completeName = os.path.join(save_path, name_of_file+".png")         
+plt.savefig(completeName)
+# Show
+plt.show()
 
 
 
