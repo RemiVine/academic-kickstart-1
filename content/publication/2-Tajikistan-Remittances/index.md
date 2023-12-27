@@ -65,3 +65,4 @@ projects: []
 slides: example
 ---
 
+![Remittances in Central Asia Illustration](./Remittances_GDP.png)
