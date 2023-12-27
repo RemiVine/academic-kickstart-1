@@ -33,24 +33,24 @@ tags:
 - Source Themes
 featured: false
 
-links: 
-# - name: Slides
-#  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
-# url_pdf: 'img/TNCJ_IPF_Final.pdf'
-# url_project: ''
-# url_slides: '#'
-# url_source: '#'
-# url_video: '#'
-# - icon: far fa-file-pdf
-#  icon_pack: fa
-#  url: img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf
+links:
+  - name: Slides
+    url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
+    url_pdf: 'img/TNCJ_IPF_Final.pdf'
+    url_project: ''
+    url_slides: '#'
+    url_source: '#'
+    url_video: '#'
+  - icon: far fa-file-pdf
+    icon_pack: fa
+    url: img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
- # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  caption: 'Image credit: ![SDG Financing Gap Illustration](./SDG_Financing_gap.png)
+  caption: 'Image credit: ![SDG Financing Gap Illustration](./SDG_Financing_gap.png)'
   focal_point: ""
   preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
