@@ -62,3 +62,7 @@ projects: []
 slides: example
 ---
 
+
+![Family Reunification Illustration](./model_sum_up_picture.png)
+
+
