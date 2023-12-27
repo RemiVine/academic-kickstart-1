@@ -26,9 +26,9 @@ featured: false
 
 links:
   - name: Slides
-    url:
-    url_pdf: 
-    url_project: ''
+    url: '#'
+    url_pdf: '#' 
+    url_project: '#'
     url_slides: '#'
     url_source: '#'
     url_video: '#'
