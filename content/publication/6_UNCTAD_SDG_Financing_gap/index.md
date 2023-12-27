@@ -9,7 +9,7 @@ date: "2023-12-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-01T00:00:00Z"
+publishDate: "2019-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,8 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract:
-# In 2014, on the eve of the adoption of the SDGs, UNCTAD’s World Investment Report put the annual investment gap faced by developing countries to achieve the goals at $2.5 trillion. A new midpoint review sets the bar much higher, at $4 - $4.3 trillion, according to the latest UNCTAD SDG Investment Trends Monitor. Taking place ahead of COP28, the World Investment Forum 2023 offers a platform for policymakers at the highest levels to take decisive actions to accelerate SDG financing.
+abstract: International project finance (IPF) can channel private cross-border capital toward productive investments in (mostly) infrastructure sectors, especially where government budget constraints are tight. Moreover, it has recently gained importance as a tool to finance the Sustainable Development Goals (SDG) and bridge the large infrastructure gap for climate megaprojects. In such contexts, projects often require international capital along with expertise and credibility; they also require a project-specific risk allocation that IPF accommodates. This research note assesses project finance in the context of international productive investments, its link with other forms of international investment (mergers and acquisitions, and cross-border greenfield investments) in the data used, and its use in UNCTAD’s publications. Data is a lynchpin for analysis but is not unproblematic. The note explores incongruences and their impact. It also outlines UNCTAD’s conceptual choice to capture ongoing productive investments in infrastructure through project finance in the world economy.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -31,19 +30,17 @@ tags:
 - Source Themes
 featured: false
 
-# links: 
-- name: Slides
-  url: [https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0](https://www.weforum.org/agenda/2023/09/why-trillions-more-are-needed-to-bridge-the-sdg-financing-gap/)
-# url_pdf: 
-# url_poster:
+links: 
+# - name: Slides
+#  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
+url_pdf: 'img/TNCJ_IPF_Final.pdf'
 # url_project: ''
 # url_slides: '#'
 # url_source: '#'
 # url_video: '#'
 # - icon: far fa-file-pdf
 #  icon_pack: fa
-#  url: 
-
+#  url: img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -65,3 +62,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
