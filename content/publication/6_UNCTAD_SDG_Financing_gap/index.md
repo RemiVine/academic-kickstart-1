@@ -33,7 +33,7 @@ featured: false
 links: 
 # - name: Slides
 #  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
-url_pdf: 'img/TNCJ_IPF_Final.pdf'
+# url_pdf: 'img/TNCJ_IPF_Final.pdf'
 # url_project: ''
 # url_slides: '#'
 # url_source: '#'
