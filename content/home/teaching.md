@@ -26,8 +26,8 @@ weight = 90
   - _Bachelor level, 2023 (60 to 160 students, depending on semesters)_ 
   - _Teaching the basic use of excel_
 - **Microeconomics (HEC Lausanne)**
- - _Bachelor level (about 900 students)_
- - _Teaching part of the Microeconomics 1.0.1._
+  - _Bachelor level (about 900 students)_
+  - _Teaching part of the Microeconomics 1.0.1._
 
 ## Supervision
 
