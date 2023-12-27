@@ -25,14 +25,14 @@ tags:
 featured: false
 
 links:
-  - name: Slides
+ # - name: Slides
     url: '#'
     url_pdf: '#' 
     url_project: '#'
     url_slides: '#'
     url_source: '#'
     url_video: '#'
-  - icon: far fa-file-pdf
+ # - icon: far fa-file-pdf
     icon_pack: fa
     url: 
 # Featured image
