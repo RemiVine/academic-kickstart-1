@@ -15,7 +15,7 @@ abstract: In 2014, on the eve of the adoption of the SDGs, UNCTAD’s World Inve
 image:
   caption: 'Image credit: ![SDG Financing Gap Illustration](SDG_Financing_gap.png)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Summary. An optional shortened abstract.
 summary: 
