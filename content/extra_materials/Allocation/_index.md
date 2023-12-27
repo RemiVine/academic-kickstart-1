@@ -1,9 +1,9 @@
 ---
 # Course title, summary, and position.
-linktitle: Some ideas on remittances
-title: Remittances - what for? 
+linktitle: Allocation
+title: Allocation algorithm
 toc: false
-summary: Remittances as a tool for meso-level investment
+summary: An allocation algorithm to assign students to groups based on their preferences
 weight: 1
 
 # Page metadata.
@@ -44,43 +44,9 @@ image:
 ---
 
 
-Remittances can be a tremendous tool for development and I work with Dr. Nestor Morgandi and Dr. Chirstian Kingombé (Managing partner of [4IP Group](http://4ipgroup.org/)) to promote remittances as a tool for development that lies between the macro approach performed by international organizations and the micro level development, where remittances are mostly used so far. Pursuing this, we worked with [Abrod](https://a-brod.com/) and participated to the 2022 Geneva Building Bridges conference ([conference](https://www.youtube.com/watch?v=wBXGulGi5WI)). 
-
-
-
-<!--
-TEST1
-[![Building Bridges 2022](./BB2002_picture_post_conference.jpg)](https://www.youtube.com/watch?v=wBXGulGi5WI "Building Bridges 2022")
-TEST2
-[![Building Bridges 2022](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](https://www.youtube.com/watch?v=wBXGulGi5WI "Building Bridges 2022")
--->
 
 
 
 
-<!--
-The video-insering code is taken here: 
-https://stackoverflow.com/questions/69326962/insert-embeded-youtube-video-in-markdown-vs-code
--->
-
-
-<center>
- <iframe width="560" 
-         height="315" 
-         src="https://www.youtube.com/embed/wBXGulGi5WI" 
-         title="YouTube video player" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
-</center>
-
-<!--
-TEST3 
-[![](https://markdown-videos.deta.dev/youtube/watch?v=wBXGulGi5WI)](https://www.youtube.com/watch?v=wBXGulGi5WI)
--->
-
-
-I also work in research on the topic, trying to highlight (i) the issue of the oligopolies of Remittances Service Providers, as prices can increase - relatively - after a disaster (see [here](https://remivine.com/publication/3-remittances-costs-catastrophes/)), (ii) the complexity of the use of remittances, at the intersection of emergency spending, spending to face poverty, spending to invest, and spending to conspiciously climb on the social ladder (see [here](https://remivine.com/publication/2-tajikistan-remittances/)). 
-
+Remittances can be a tremendous tool for development
 
