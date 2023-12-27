@@ -64,3 +64,5 @@ projects: []
 slides: example
 ---
 
+
+![Price Change Remittances Illustration](./Baseline_7_lags.png)
