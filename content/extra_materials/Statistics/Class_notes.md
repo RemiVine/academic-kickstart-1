@@ -14,6 +14,11 @@ menu:
 weight: 1
 ---
 
+# Some general classnotes for statistics 1.0.1. and exercices 
+
+
+# Some technical classnotes
+
 These short classnotes aim to bring some further understanding regarding key concepts in statistics that are not fully covered in class.
 
 
