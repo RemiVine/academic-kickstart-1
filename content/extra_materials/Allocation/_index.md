@@ -164,6 +164,7 @@ prob.solve()
 # ![Preferences overall](./Bar_chart_proportion_satisfied_allocation.png)
 # ![Language matching](./Matching_shares_language_required_and_optional.png)
 
+
 ```python
 #############################
 #############################
