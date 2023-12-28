@@ -156,11 +156,13 @@ prob.solve()
 **Some extra information to assess the quality of the allocation**
 
 <center><img src="./Bar_chart_proportion_students_by_group.png" alt="Students per group" width="50%" /></center>
+<center><img src="./Bar_chart_proportion_satisfied_allocation.png" alt="Preferences overall" width="50%" /></center>
+<center><img src="./Matching_shares_language_required_and_optional.png" alt="Language matching" width="50%" /></center>
 
 
-![Students per group](./Bar_chart_proportion_students_by_group.png)
-![Preferences overall](./Bar_chart_proportion_satisfied_allocation.png)
-![Language matching](./Matching_shares_language_required_and_optional.png)
+# ![Students per group](./Bar_chart_proportion_students_by_group.png)
+# ![Preferences overall](./Bar_chart_proportion_satisfied_allocation.png)
+# ![Language matching](./Matching_shares_language_required_and_optional.png)
 
 ```python
 #############################
