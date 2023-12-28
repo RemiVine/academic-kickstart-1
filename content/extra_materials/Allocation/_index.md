@@ -187,8 +187,24 @@ prob.solve()
 
 **Some extra information to assess the quality of the allocation**
 
+# Visualize the share of students per group size
+
+Visualize the share of groups with different number of students. The bar chart shows that there are only groups with three or four students, which is what was initially scheduled. 
+
 <center><img src="./Bar_chart_proportion_students_by_group.png" alt="Students per group" width="50%" /></center>
+
+# Visualize the number (and share) of students allocated depending on their preferences
+
+Visualize the frequency of students obtaining their first, second and third choices. Beyond 80% of the students obtained their top choice, less than 1.4% of all students obtained a project in their third best set of projects. No student obtained a project that was not part of any preferred project. 
+
 <center><img src="./Bar_chart_proportion_satisfied_allocation.png" alt="Preferences overall" width="50%" /></center>
+
+# Check the language skills
+
+Importantly, students were asked about their language skills in order to ensure that the matching was also according to the language matching. Some partners informed on language requirements and/or on language preferred in the group (because of interviews to be conducted, literature only available in the local language, etc.). Unfortunately, this method cannot take such heterogeneity into account. That is the price of having a very simply and fully transparant analysis. 
+
+However, one can argue that the self-selection of students will lead the allocation based on preference to allow for a sound language allocation on top of the students' preferences. It is expected that students must have internalized the language constraints into their preferences sorting. In fact, this is probably better to allocate using a simply algorithm and entrusting students so that language allocation is also appropriate. If not, it is not unrealistic to have the students bear the responsability of their own choices - as they were duly informed about the importance of the language allocation beforehand. 
+
 <center><img src="./Matching_shares_language_required_and_optional.png" alt="Language matching" width="50%" /></center>
 
 
