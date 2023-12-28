@@ -16,6 +16,21 @@ weight: 1
 
 # Some general classnotes for statistics 1.0.1. and exercices 
 
+Content | Lecture | Problem Set |
+:--------------:|:-----:|:-------------:
+Introduction | [Lecture 1](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L1.pdf) | [PS1](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_1.pdf)
+Organize data and compute centrality indicators | [Lecture 2](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L2.pdf) | [PS2](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_2.pdf)
+Dispersion indicators, distribution shape, Boxplots | [Lecture 3](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L3.pdf) | [PS3](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_3.pdf)
+Probability and discrete random variables | [Lecture 4](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L4.pdf) | [PS4](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_4.pdf)
+Continuous random variables and the Normal distribution | [Lecture 5](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L5.pdf) | [PS5](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_5.pdf)
+All roads lead to the Normal distribution - The sampling distribution | [Lecture 6](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L6.pdf) | [PS6](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_6.pdf)
+A first step in inference - the confidence intervals for proportions | [Lecture 7](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L7.pdf) | [PS7](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_7.pdf)
+Confidence intervals for means | [Lecture 8](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L8.pdf) | [PS8](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_8.pdf)
+A second step in inference - Hypothesis testing for means | [Lecture 9](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L9.pdf) | [PS9](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_9.pdf)
+Correlation & Linear Univariate Regression | [Lecture 10](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L10.pdf) | [PS10](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_10.pdf)
+Linear Multivariate Regression (and some special cases), OLS assumptions | [Lecture 11](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L11.pdf) | [PS11](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_11.pdf)
+
+
 
 # Some technical classnotes
 
