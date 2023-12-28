@@ -205,7 +205,7 @@ Importantly, students were asked about their language skills in order to ensure 
 
 However, one can argue that the self-selection of students will lead the allocation based on preference to allow for a sound language allocation on top of the students' preferences. It is expected that students must have internalized the language constraints into their preferences sorting. In fact, this is probably better to allocate using a simply algorithm and entrusting students so that language allocation is also appropriate. If not, it is not unrealistic to have the students bear the responsability of their own choices - as they were duly informed about the importance of the language allocation beforehand. 
 
-<center><img src="./Matching_shares_language_required_and_optional.png" alt="Language matching" width="80%" /></center>
+<center><img src="./Matching_shares_language_required_and_optional.png" alt="Language matching" width="100%" /></center>
 
 
 # Raw code for the extra aspects
