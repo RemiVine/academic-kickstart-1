@@ -16,6 +16,15 @@ weight: 10
 
 Here are some exams and materials that can be helpful for preparation and understanding. 
 
+## 2023
+
+Content | Level | Download the PDF | Other material
+:--------------:|:-----:|:-------------:|:-------------:
+Midterm test    | Stats 101 | [Waiver](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/MIDTERM_2023_Statistics_IRPS.pdf.pdf) | [Student (fake) data](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Past_exams/MIDTERM_2023_PISA_fake_student_level.xlsx), [School (fake) data](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Past_exams/MIDTERM_2023_PISA_fake_school_level.xlsx), [PISA report (2018)](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Past_exams/MIDTERM_2023_PISA_2018_Insights.pdf), [PISA sampling (2018)](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Past_exams/MIDTERM_2023_PISA2018_TecReport-Ch-04-Sample-Design.pdf.pdf)
+
+
+## 2022
+
 Content | Level | Download the PDF | Other material
 :--------------:|:-----:|:-------------:|:-------------:
 Waiver test     | Stats 101 |  [Waiver](https://github.com/RemiVine/academic-kickstart-1/tree/master/static/img/Statistics_doc/Past_exams/Waiver_09_2022_final-1-11.pdf) | *None*
