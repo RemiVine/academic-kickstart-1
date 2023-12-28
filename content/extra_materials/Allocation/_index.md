@@ -75,7 +75,7 @@ Overall, this algorithm is very simple, transparent in its method and extremely 
 This is a specific algorithm well-suited for such allocation. However, the price to pay to an easy and efficient allocation is the lack of refinement such as the inclusion of heterogeneous characteristics on top of students' preferences. Here, there is no account for extra characteristics such as language match between the students' skills and the partners' needs. There is also no _ad hoc_ matching where some partners would have requested 5 students or, on the contrary, 2 students. Here all partners are treated equally and so are students' preferences. In some respect, this overly simple allocation has the advantage of fairness towards partners and students. 
 
 
-
+# Raw code available below: 
 
 
 
