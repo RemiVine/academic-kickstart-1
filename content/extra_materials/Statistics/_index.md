@@ -21,13 +21,10 @@ menu:
     weight: 1
 ---
 
-#### Here I share some materials about statistics for students in social sciences, most of the material is intuitive and aims to give intuitions behind concepts.
+#### Here I share some materials (lectures, extra notes, exercices, exams) about statistics for students in social sciences, most of the material is intuitive and aims to give intuitions behind concepts.
 
 
-##### A waiver test for statistic I for International Relations and Political Science
 
-
-##### Some exam materials to prepare 
 
 <div style="text-align: center;">
 
