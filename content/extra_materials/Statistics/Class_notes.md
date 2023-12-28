@@ -16,6 +16,8 @@ weight: 1
 
 # Some general classnotes for statistics 1.0.1. and exercices 
 
+The material below was used in the _Statistical Literacy_ class taught to interdisciplinary master students at the Graduate Institute of Geneva. This material assumes zero knowledge of statistics and starts with a knowledge of the 4 basic operations (+,-,*,/). 
+
 Content | Lecture | Problem Set |
 :--------------:|:-----:|:-------------:
 Introduction | [Lecture 1](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_L1.pdf) | [PS1](https://github.com/RemiVine/academic-kickstart-1/blob/master/static/img/Statistics_doc/Classnotes/MINT_2023_PS_1.pdf)
@@ -34,7 +36,7 @@ Linear Multivariate Regression (and some special cases), OLS assumptions | [Lect
 
 # Some technical classnotes
 
-These short classnotes aim to bring some further understanding regarding key concepts in statistics that are not fully covered in class.
+These short classnotes aim to bring some further understanding regarding key concepts in statistics that are not fully covered in class. These notes assumes more advanced mathematical tools than the classnotes and target curious minds. 
 
 
 Content | Level | Download the PDF |
