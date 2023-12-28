@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-#### Here I share some materials (lectures, extra notes, exercices, exams) about statistics for students in social sciences, most of the material is intuitive and aims to give intuitions behind concepts.
+I make some materials (lectures, extra notes, exercices, exams) about statistics for students in social sciences available here. Most of the material is intuitive and aims to give intuitions behind concepts. I always value constructive feedback on this material, so feel free to reach out through my contact address. 
 
 
 
