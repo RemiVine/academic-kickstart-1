@@ -1,9 +1,14 @@
 ---
 title: "Gender-based occupational segregation: A multi-country analysis"
 # subtitle: "Job Market Paper"
-authors: Rémi Viné, Avichal Mahajan, Paloma Carrillo, Marta Golin, Steven Kapsos, Roger Gomis
+authors: 
 - admin
-date: "2019-12-07T00:00:00Z"
+- Avichal Mahajan
+- Paloma Carrillo
+- Marta Golin
+- Steven Kapsos
+- Roger Gomis
+date: "2026-09-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
