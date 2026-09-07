@@ -15,7 +15,7 @@ superuser: true
 
 # Role/position
 
-role: Lecturer, Faculty Lead, and Consultant
+role: Lecturer, Faculty Lead, and Technical Officer
 
 # Organizations/Affiliations
 
