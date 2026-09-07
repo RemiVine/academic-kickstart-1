@@ -36,7 +36,7 @@ featured: false
 links: 
 # - name: Slides
 #  url: 
-url_pdf: 'img/Paper_Occupational_segregation.pdf'
+url_pdf: 'img/Research/Paper_Occupational_segregation.pdf'
 # url_poster: 
 # url_project: ''
 # url_slides: '#'
