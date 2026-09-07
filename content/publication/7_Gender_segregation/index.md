@@ -1,7 +1,7 @@
 ---
-title: "JMP - Economic Drivers of Family Reunification in a Context of International Migration"
-subtitle: "Job Market Paper"
-authors:
+title: "Gender-based occupational segregation: A multi-country analysis"
+# subtitle: "Job Market Paper"
+authors: Rémi Viné, Avichal Mahajan, Paloma Carrillo, Marta Golin, Steven Kapsos, Roger Gomis
 - admin
 date: "2019-12-07T00:00:00Z"
 doi: ""
